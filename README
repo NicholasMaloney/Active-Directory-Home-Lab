@@ -1,1 +1,10 @@
+Overview of my Windows Active Directory homelab. 
+- I am following a yourtube playlist created by John Hammond and I am using VMware pro 17. 
 
+VMs I am using 
+- Windows 11 Pro (TPM bypass) 
+- Windows server 2022 
+
+Steps taken cont. below 
+
+Issues ran into list below
